@@ -17,3 +17,4 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 vim /etc/v2ray/config.json
 
 vim /etc/nginx/conf.d/fake.conf
+12321321
